@@ -1,0 +1,11 @@
+commit b7e7db0301141756c26aea8d33777b2e7dc47df7
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Dec 29 18:03:17 2015 -0600
+
+    Proyecto del curso de Programacion Basica de Platzi: Calcula tu peso en Marte
+
+commit 97e81fc4e2342df52c3e9dfb9719d423099a1cb8
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Dec 29 18:01:20 2015 -0600
+
+    Proyecto del curso de Programacion Basica de Platzi: Juego Piedra, Papel o Tijera
