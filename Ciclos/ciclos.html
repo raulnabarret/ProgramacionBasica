@@ -1,0 +1,53 @@
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>Ciclos</title>
+	<script type="text/javascript">
+
+		var caja;
+		var textInput;
+		var buttonInput;
+
+		function calcular () {
+			var numero = Number(textInput.value);
+
+			var i = 1;
+			var acum = 1;
+
+			// while(i <= numero) {
+			// 	acum *= i;
+			// 	i++; 
+			// }
+
+			for (var i = 1; i <= numero; i++) {
+				acum *= i;
+			}
+
+			caja.innerHTML = acum;
+		}
+
+		function inicio () {
+			
+			caja = document.getElementById("caja");
+			textInput = document.getElementById("entrada");
+			buttonInput = document.getElementById("boton");		
+
+			buttonInput.addEventListener("click", calcular); 
+
+		}
+
+	</script>
+</head>
+<body>
+	<div id="caja">
+		Hola Mundo
+	</div>
+
+	<input type="text" id="entrada">
+	<input type="button" id="boton" value="Calcular">
+
+	<script type="text/javascript">
+		inicio();
+	</script>
+</body>
+</html>
