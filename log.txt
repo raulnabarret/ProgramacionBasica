@@ -1,3 +1,39 @@
+commit 3b5b24f136fcbfd64fbd16a1a700ded99d8c9758
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Mon Apr 11 22:11:48 2016 -0500
+
+    Dibujar imágenes en canvas
+
+commit f1f569ca000118269801d72b1055b04c1b0f4c02
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Thu Jan 7 23:54:42 2016 -0600
+
+    Clase de canvas en html y js
+
+commit ffc3ab57aac26ecacd24a38461c49db3cf544d9a
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Thu Jan 7 00:38:30 2016 -0600
+
+    Clase de ciclos
+
+commit bec3dc665f16dbf28cd2db73895a103e56a4c7b3
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Fri Jan 1 19:33:38 2016 -0600
+
+    Bitacora de commits al 01 de enero de 2015
+
+commit 19f07a17cd222795962bdd6073b4aa3560ca8cc7
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Fri Jan 1 19:32:43 2016 -0600
+
+    Juego de Buscaminas
+
+commit ab356f16e0277c00e24bec2575d5cb61d78e2c16
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Wed Dec 30 23:25:00 2015 -0600
+
+    Juego Piedra, papel o tijera terminado
+
 commit b7e7db0301141756c26aea8d33777b2e7dc47df7
 Author: raulnabarret <raulnabarret@gmail.com>
 Date:   Tue Dec 29 18:03:17 2015 -0600
