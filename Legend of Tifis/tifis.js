@@ -3,6 +3,10 @@ var fondo = {
 	imagenURL: "media/fondo.png"
 };
 
+var tifis = {
+	
+};
+
 function inicio () {
 
 	var canvas = document.getElementById("campo");
