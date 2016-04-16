@@ -1,3 +1,27 @@
+commit a2ee6b4c27f68719ee56e3ca4cf5461c8bda9ea2
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Thu Apr 14 13:08:49 2016 -0500
+
+    Mover y controlar a Tifis
+
+commit d61273630d33f173a1c5f5ab1728a3e1602de5a3
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Wed Apr 13 23:12:47 2016 -0500
+
+    Dibujar y mover a Tifis en el canvas
+
+commit cdb461bdbda5385270d91f690aff2ef7761f46bc
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Apr 12 22:36:38 2016 -0500
+
+    Definimos a Tifis en el Canvas
+
+commit 7cacc160c25ae3cd181c647f7fe2be1ad9dfcec2
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Mon Apr 11 22:16:41 2016 -0500
+
+    Bitácora al 11 de abril de 2016
+
 commit 3b5b24f136fcbfd64fbd16a1a700ded99d8c9758
 Author: raulnabarret <raulnabarret@gmail.com>
 Date:   Mon Apr 11 22:11:48 2016 -0500
