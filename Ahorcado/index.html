@@ -4,22 +4,31 @@
 	<meta charset="UTF-8">
 	<title>Juego de Ahorcado</title>
 	<script>
-		var Mascota = function (n, v) {
-			this.nombre = n;
-			this.voz = v; 
-		}
+		// var Mascota = function (n, v) {
+		// 	this.nombre = n;
+		// 	this.voz = v; 
+		// }
 
-		Mascota.prototype.hablar = function () {
-			alert(this.voz);
-		}
+		// Mascota.prototype.hablar = function () {
+		// 	alert(this.voz);
+		// }
 
-		var perro = new Mascota("Rocko" , "Guau!");
-		var gato = new Masccota("Garfield" , "Miau!");
+		// var perro = new Mascota("Rocko" , "Guau!");
+		// var gato = new Masccota("Garfield" , "Miau!");
 
-		perro.hablar();
-		gato.hablar();
+		// perro.hablar();
+		// gato.hablar();
 	</script>
 </head>
 <body>
+	<h1>Juego del Ahorcado</h1>
+	<canvas id="c">
+		
+	</canvas>
+	<form action="">
+		<label for="letra">Elige una letra</label>
+		<input type="text" id="letra">
+	</form>
+	<h2 id="pista">_ _ _ _ _ _ _ _ _</h2>
 </body>
 </html>
