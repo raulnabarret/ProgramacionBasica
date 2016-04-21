@@ -124,8 +124,8 @@ function iniciar ()
     var contexto = canvas.getContext("2d");
     hombre = new Ahorcado(contexto);
 
-    //Convierte a mayúscula un texto
-    palabra = palabra.toUpperCase();
+    //Convierte a minúscula un texto
+    palabra = palabra.toLowerCase();
 
     //Declaro un array con n espacios de acuerdo al largo de la plabara
     espacio = new Array(palabra.length);
