@@ -1,3 +1,39 @@
+commit fc93b884eff4f1fdaa67b4dd3c3666f9bff8b949
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Thu Apr 21 10:08:17 2016 -0500
+
+    Transformar la palabra ingresada a minúsculas
+
+commit 0d61983fc36310f0f60f199eb630c3ff697cad6f
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Wed Apr 20 18:46:51 2016 -0500
+
+    Juego de ahorcado terminado
+
+commit fbf515beb2473e3a51a26d0ec9ca16dfb9be7ebb
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Wed Apr 20 17:26:07 2016 -0500
+
+    Estructura básica del canvas y del texto en el juego
+
+commit 67633a266953ab574a8169d52a75d986593de9f5
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Tue Apr 19 10:20:52 2016 -0500
+
+    Explicación de objetos y Prototype en JS
+
+commit 91137c9a61c673233b1123cc9a725cefa02ac855
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Mon Apr 18 23:07:02 2016 -0500
+
+    Index del juego de ahorcado
+
+commit fd7b5eb55edccae15e6de91a44595f914095f9e8
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Sun Apr 17 22:08:31 2016 -0500
+
+    Nuevo curso de Uso de Objetos, Prototype y juego de ahorcado en Canvas
+
 commit 986a99e45ca1bf24324983a402283209492ce30f
 Author: raulnabarret <raulnabarret@gmail.com>
 Date:   Sat Apr 16 11:00:15 2016 -0500
