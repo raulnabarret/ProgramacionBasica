@@ -1,3 +1,33 @@
+commit 989a2a5c2dda202917239959adf9272f930fe813
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Thu May 12 10:14:13 2016 -0500
+
+    Controlar Drone (Despegue/Rotación/Aterrizaje)
+
+commit fb80da9ba7b548b2c0bf4c45e6ef2a1f7205c694
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Wed May 11 23:09:16 2016 -0500
+
+    Servidor con Node.js y página principal de controles
+
+commit 9e78420d11f09b591d4855c7dbc7fe1249ae1709
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Wed May 11 18:55:57 2016 -0500
+
+    Envío de formulario a través de Node.js usando el método POST
+
+commit 6bf1221b882bb84b0af176c7de62c23388af519d
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Wed May 11 18:03:10 2016 -0500
+
+    Creando servidor con Node.js y Express
+
+commit cfb0370bce84ce9b7d2905000e4272b421b322aa
+Author: raulnabarret <raulnabarret@gmail.com>
+Date:   Fri Apr 29 22:15:32 2016 -0500
+
+    Bitácora al 29 de abril de 2016
+
 commit fc93b884eff4f1fdaa67b4dd3c3666f9bff8b949
 Author: raulnabarret <raulnabarret@gmail.com>
 Date:   Thu Apr 21 10:08:17 2016 -0500
